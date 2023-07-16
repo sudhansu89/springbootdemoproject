@@ -8,5 +8,6 @@ private Integer empno;
 private String ename;
 private String job;
 private float sal;
+  private String dob;
 
 }
